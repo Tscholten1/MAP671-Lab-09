@@ -1,0 +1,7 @@
+{
+"type": "Feature",
+"name": "DevilsTowerPoints",
+"features": [
+{ "type": "Feature", "properties": { "Place": "Devils Tower" }, "geometry": { "type": "Point", "coordinates": [ -104.714598655700684, 44.59055886680445 ] } },
+]
+}

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "DevilsTowerPoints",
+"features": [
+{ "type": "Feature", "properties": { "Place": "Devils Tower" }, "geometry": { "type": "Point", "coordinates": [ -104.714598655700684, 44.59055886680445 ] } },
+{ "type": "Feature", "properties": { "Place": "Visitors Center" }, "geometry": { "type": "Point", "coordinates": [ -104.720467329025269, 44.590306731343524 ] } },
+{ "type": "Feature", "properties": { "Place": "Trailhead" }, "geometry": { "type": "Point", "coordinates": [ -104.71967875957489, 44.590344933756391 ] } },
+{ "type": "Feature", "properties": { "Place": "Priaire Dog Town" }, "geometry": { "type": "Point", "coordinates": [ -104.707367420196533, 44.586646823762081 ] } },
+{ "type": "Feature", "properties": { "Place": "Prairie Dog Town" }, "geometry": { "type": "Point", "coordinates": [ -104.708890914916992, 44.584767115687178 ] } },
+{ "type": "Feature", "properties": { "Place": "Trading Post" }, "geometry": { "type": "Point", "coordinates": [ -104.698913097381592, 44.588472985996241 ] } },
+{ "type": "Feature", "properties": { "Place": "Park Ticket Booth" }, "geometry": { "type": "Point", "coordinates": [ -104.699524641036987, 44.588946709086578 ] } }
+]
+}
