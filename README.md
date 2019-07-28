@@ -1,6 +1,9 @@
 # MAP671-Lab-09
 Devils Tower National Monument
-Lessons learned:
+<ul>
+<b>Lessons learned:<b/>
+</ul>
+  
 <ul>
    <li>Created elevation contours with GDAL</li>
    <li>Used Qgis tools to clip raster by extent and extract elevation contour lines</li>
