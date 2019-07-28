@@ -1,7 +1,7 @@
 # MAP671-Lab-09
 Devils Tower National Monument
 <ul>
-<b>Lessons learned:<b/>
+Lessons learned:
 </ul>
   
 <ul>
